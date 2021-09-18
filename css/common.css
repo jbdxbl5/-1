@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div div{
+	width: 5rem; 
+	height: 5rem; 
+	background-color: coral; 
+	float: left;
+	border-radius: 1rem; 
+	margin-right: 1rem;
+	margin-top: 1rem;
+}
+html{
+	font-size: 20px;
+}
